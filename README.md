@@ -2,8 +2,8 @@
 
 ## Install
 
-befor you start, you should install bundler.  
-check [here](http://bundler.io/) about bundler.
+You should install bundler before you start.
+Check [here](http://bundler.io/) about bundler.
 
 ### clone from github
 
