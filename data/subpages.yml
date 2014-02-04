@@ -1,0 +1,6 @@
+- page:
+    name: 'page1'
+    title: 'Sample Page 1'
+- page:
+    name: 'page2'
+    title: 'Sample Page 2'
