@@ -2,7 +2,7 @@
 
 ## Install
 
-You should install bundler before you start.
+You should install bundler before you start.  
 Check [here](http://bundler.io/) about bundler.
 
 ### clone from github
@@ -21,5 +21,6 @@ bundle install
 bundle exec middleman
 ```
 
-Now you can see project top on your browser.  
+
+Now you can see project top on your browser at http:localhost:4567.  
 Good luck !
