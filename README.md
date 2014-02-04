@@ -2,6 +2,9 @@
 
 ## Install
 
+befor you start, you should install bundler.  
+check [here](http://bundler.io/) about bundler.
+
 ### clone from github
 
 ```bash
