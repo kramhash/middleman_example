@@ -22,5 +22,5 @@ bundle exec middleman
 ```
 
 
-Now you can see project top on your browser at http:localhost:4567.  
+Now you can see project top on your browser at http://localhost:4567.  
 Good luck !
